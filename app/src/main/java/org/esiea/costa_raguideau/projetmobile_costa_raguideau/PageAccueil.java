@@ -51,7 +51,7 @@ public class PageAccueil extends AppCompatActivity {
 
     public void video(View v) {
 
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=idF0xEMiOvI")));
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://m.youtube.com/watch?v=D9kuZa0BTr0")));
         Log.i("Video", "Video Playing....");
 
     }
