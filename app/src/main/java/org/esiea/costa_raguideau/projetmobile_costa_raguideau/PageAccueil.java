@@ -61,6 +61,7 @@ public class PageAccueil extends AppCompatActivity {
         switch (item.getItemId()) {
             case R.id.Donation:
                 AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                builder.setCancelable(false);
                 builder.setMessage(R.string.dialog_message);
                 builder.setTitle(R.string.dialog_title);
                 builder.setPositiveButton(R.string.ok1, new DialogInterface.OnClickListener() {

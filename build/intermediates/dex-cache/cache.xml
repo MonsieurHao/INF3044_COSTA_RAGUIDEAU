@@ -2,166 +2,148 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_23ac1002763ebb02ee0e73a39708e53f5b4e6264\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_cae0f436681fd19a7f508cfe3a20acc785eb446b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a2c401031aef4f1c2c119de2c6f23835f3c2f307">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_88c199907e22b6aacb6fb782f3a87a668e3bca74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_3f97bdb768cca995cc41ac947143fab14ed77d27\classes.dex" />
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_3f97bdb768cca995cc41ac947143fab14ed77d27.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b552aab42e7e02ecc3cc24e01fba413a9c1d6fbc\classes.dex" />
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_23ac1002763ebb02ee0e73a39708e53f5b4e6264.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_ac1564d5eb960ee9cbff831ef114c91eea097261\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_3875cece1461428642952f5a88801ed2c9190747\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f54c05161f678022a583f95d584489d4cf983785\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b5ee6d0ba795b6ac115280e48e03ef8d5afed7c2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_dded3120aa325213fa39fc56de25e11cdabcb53f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_47c18fa313e8195e8ec8f0c12be160ab07a8cbb8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_ccafb4fdada4b1c7f149c11a1bc53d74e678588b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="69d6d35e512d8e7b96196f9a64661737448c5f29">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a581dcfae7732700b0891ad1db2367c10b6ff811\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_280deed75f1c602b49e8857a1b4d60514570a9d7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_660535c5ca71675643fad87143c313f2c3f5191f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7ce16a47a9443d3492a14e0f7846e07d451d7881\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_943cd5e41be4b705f15c08329e8340977ab30b58\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e7b53269107e1e54f10e5aca1920b4efe36b96a8\classes.dex" />
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e7b53269107e1e54f10e5aca1920b4efe36b96a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7ce16a47a9443d3492a14e0f7846e07d451d7881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_ac1564d5eb960ee9cbff831ef114c91eea097261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_3875cece1461428642952f5a88801ed2c9190747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_dded3120aa325213fa39fc56de25e11cdabcb53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_47c18fa313e8195e8ec8f0c12be160ab07a8cbb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_943cd5e41be4b705f15c08329e8340977ab30b58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b552aab42e7e02ecc3cc24e01fba413a9c1d6fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_cae0f436681fd19a7f508cfe3a20acc785eb446b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b5ee6d0ba795b6ac115280e48e03ef8d5afed7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_660535c5ca71675643fad87143c313f2c3f5191f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_280deed75f1c602b49e8857a1b4d60514570a9d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f54c05161f678022a583f95d584489d4cf983785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_ccafb4fdada4b1c7f149c11a1bc53d74e678588b.jar" />
     </item>
 
 </items>
