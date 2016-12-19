@@ -21,21 +21,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2c401031aef4f1c2c119de2c6f23835f3c2f307">
+        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_88c199907e22b6aacb6fb782f3a87a668e3bca74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_3f97bdb768cca995cc41ac947143fab14ed77d27\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5bd2147891a910fdcb4b9e8ee26fc92bcbdd8b4c">
-        <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_88c199907e22b6aacb6fb782f3a87a668e3bca74\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e19148602061c9490652f5d71a296b32165730cb">
+        sha1="69d6d35e512d8e7b96196f9a64661737448c5f29">
         <dex dex="C:\Users\Akiya\Documents\Programmation\Programmation Mobile\INF3044_COSTA_RAGUIDEAU\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a581dcfae7732700b0891ad1db2367c10b6ff811\classes.dex" />
     </item>
     <item

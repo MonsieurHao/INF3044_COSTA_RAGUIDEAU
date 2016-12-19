@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message">We are happy to know that you want to donate 1 million dollars!</string>
+    <string name="dialog_title">Donate to the developers</string>
+    <string name="ok1">donate 1 million dollars</string>
+    <string name="ok2">give 1 million dollars</string>
+    <string name="ok3">you don\'t really have a choice ;)</string>
+    <string name="merci">Thank you for your generosity </string>
+</resources>

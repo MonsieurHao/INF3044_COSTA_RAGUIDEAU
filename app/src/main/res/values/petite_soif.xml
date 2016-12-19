@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="titre">Our drink list:</string>
+    <string name="titre_recycler">Bar</string>
+    <string name="downloaded">Bier delivered!</string>
 </resources>

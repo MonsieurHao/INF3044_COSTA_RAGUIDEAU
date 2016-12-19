@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Myapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/Donation"
+        android:icon="@drawable/ic_payment_white_24px"
+        android:title="Donate"
+        Myapp:showAsAction="always"/>
+</menu>

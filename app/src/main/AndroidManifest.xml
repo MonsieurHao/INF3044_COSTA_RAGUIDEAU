@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.esiea.costa_raguideau.projetmobile_costa_raguideau">
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_stat_name"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -19,11 +20,9 @@
         <activity android:name=".Petite_soif" />
 
         <service
-            android:name=".MyIntentService"
-            android:exported="false" />
-        <service
             android:name=".telecharge_bieres"
-            android:exported="false"></service>
+            android:exported="false" />
+
     </application>
 
 </manifest>

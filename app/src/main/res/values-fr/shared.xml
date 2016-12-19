@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message">Nous sommes heureux d\'apprendre que vous nous faites donnation de 1 million d\'euros pour suporter cette g&#233;niale aplication </string>
+    <string name="dialog_title">Donation pour les d&#233;velopeurs</string>
+    <string name="ok1">Donner 1 million</string>
+    <string name="ok2">Se faire voler 1 million</string>
+    <string name="ok3">On vous laisse pas le choix ;)</string>
+    <string name="merci">Nous vous remercions pour votre g&#233;n&#233;rosit&#233;e </string>
+</resources>

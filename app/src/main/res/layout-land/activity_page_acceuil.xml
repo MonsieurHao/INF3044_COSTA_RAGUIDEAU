@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/beige">
+
+    <Button
+        android:text="Que pensez vous de notre application ?"
+        android:id="@+id/Avis"
+        android:layout_height="80dp"
+        android:layout_width="200dp"
+        android:onClick="arrogant"
+        android:layout_marginBottom="8dp"
+        android:layout_above="@+id/BoutonVie"
+        android:layout_alignRight="@+id/BoutonVie"
+        android:layout_alignEnd="@+id/BoutonVie" />
+
+    <Button
+        android:text="Change Activity"
+        android:layout_height="80dp"
+        android:layout_width="200dp"
+        android:id="@+id/Next"
+        android:onClick="petite_soif"
+        android:layout_alignTop="@+id/Avis"
+        android:layout_alignLeft="@+id/BoutonVie"
+        android:layout_alignStart="@+id/BoutonVie" />
+
+    <Button
+        android:text="Signification du sens de la vie"
+        android:id="@+id/BoutonVie"
+        android:layout_height="60dp"
+        android:layout_width="500dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@android:color/holo_red_dark"
+        android:textStyle="normal|bold|italic"
+        android:layout_marginBottom="25dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="video"/>
+
+    <TextView
+        android:text="put some text here"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Intro"
+        tools:text="Bien le bonjour!"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:fontFamily="casual"
+        android:layout_marginTop="28dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
