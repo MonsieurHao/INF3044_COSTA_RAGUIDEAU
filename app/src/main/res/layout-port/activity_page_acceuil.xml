@@ -60,7 +60,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/Intro"
-        tools:text="Bien le bonjour!"
+        tools:text="Les créateurs de cette application vous recommendent de regarder Jojo's bizarre Adventure! Ora ora ora oraaaa!!!"
         android:textAppearance="@style/TextAppearance.AppCompat"
         android:fontFamily="casual"
         android:layout_alignParentTop="true"
